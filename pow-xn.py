@@ -43,6 +43,7 @@ class Solution(object):
 
         return val
 
+
 s = Solution()
-res = s.myPow(2, 2147483647)
+res = s.myPow(2, 5)
 print(res)
